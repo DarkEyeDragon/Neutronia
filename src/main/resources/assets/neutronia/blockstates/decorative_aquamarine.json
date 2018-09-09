@@ -1,0 +1,44 @@
+{
+  "_comment": "Generated using Husky's JSON Generator v2.",
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "variant": {
+      "decorative_aquamarine_bricks": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/aquamarine_bricks"
+        }
+      },
+      "chiseled_decorative_aquamarine": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/chiseled_aquamarine"
+        }
+      },
+      "raw_decorative_aquamarine": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/raw_aquamarine"
+        }
+      },
+      "small_decorative_aquamarine_bricks": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/small_aquamarine_bricks"
+        }
+      },
+      "smooth_decorative_aquamarine": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/smooth_aquamarine"
+        }
+      }
+    },
+    "inventory": [
+      {}
+    ]
+  }
+}

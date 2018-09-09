@@ -1,0 +1,108 @@
+{
+  "_comment": "Generated using Husky's JSON Generator v4.",
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "variant": {
+      "white_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_white"
+        }
+      },
+      "orange_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_orange"
+        }
+      },
+      "magenta_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_magenta"
+        }
+      },
+      "light_blue_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_light_blue"
+        }
+      },
+      "yellow_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_yellow"
+        }
+      },
+      "lime_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_lime"
+        }
+      },
+      "pink_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_pink"
+        }
+      },
+      "gray_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_gray"
+        }
+      },
+      "silver_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_silver"
+        }
+      },
+      "cyan_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_cyan"
+        }
+      },
+      "purple_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_purple"
+        }
+      },
+      "blue_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_blue"
+        }
+      },
+      "brown_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_brown"
+        }
+      },
+      "green_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_green"
+        }
+      },
+      "red_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_red"
+        }
+      },
+      "black_centered_glazed_terracotta": {
+        "model": "cube_all",
+        "textures": {
+          "all": "neutronia:block/centered_glazed_terracotta/centered_glazed_terracotta_black"
+        }
+      }
+    },
+    "inventory": [{}]
+  }
+}
